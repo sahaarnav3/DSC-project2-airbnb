@@ -376,29 +376,29 @@ slider > * {
 }
 slide:nth-child(1) {
     left: 0%;
-    animation-delay: 0s;
+    animation-delay: 18s;
     background-image: url("https://store.insiderenvy.com/images/2018/06/12151240/GettyImages-486334510-1-min-min-1024x683.jpeg");
     background-size: cover;
     background-position: center;
 }
 slide:nth-child(2) {
-    animation-delay: 4s;
+    animation-delay: 14s;
     background-image: url("https://wallpapercave.com/wp/22ZV3dU.jpg");
     background-size: cover;
     background-position: center;
 }slide:nth-child(3) {
-    animation-delay: 8s;
+    animation-delay: 10s;
     background-image: url("https://images.unsplash.com/photo-1503192851959-c6da8ac80cff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
     background-size: cover;
     background-position: center;
 }slide:nth-child(4) {
-    animation-delay: 12s;
+    animation-delay: 6s;
     background-image: url("https://wallpapercave.com/wp/rxcrfE5.jpg");
     background-size: cover;
     background-position: center;
 }slide:nth-child(5) {
     left: 0%;
-    animation-delay: 16s;
+    animation-delay: 2s;
     background-image: url("https://images2.alphacoders.com/103/thumb-1920-103672.jpg");
     background-size: cover;
     background-position: center;
